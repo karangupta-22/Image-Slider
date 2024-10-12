@@ -1,3 +1,3 @@
 # Apna college
-it is create from local machine.
+this project is created from local machine.
 it is created by Karan Gupta.
