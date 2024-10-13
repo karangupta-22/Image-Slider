@@ -1,3 +1,2 @@
-# Apna college
-this project is created from local machine.
-it is created by Karan Gupta.
+# Image Slider
+It is created by using html and css.
